@@ -168,11 +168,6 @@ def mainFunction():
                 break
 
     if follow == "ya":
-
-        polarity_list = []
-        numbers_list = []
-        number = 1
-
         for tweet in tweepy.Cursor(api.search, search).items(numberOfTweets):
             try:
                 #Follow
