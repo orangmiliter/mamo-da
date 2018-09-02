@@ -6,3 +6,6 @@
   $sudo pip install textblob  
   $sudo python -m pip install matplotlib  
   $sudo apt install python-tweepy python-tk 
+
+#Run
+python mamoda.py  
