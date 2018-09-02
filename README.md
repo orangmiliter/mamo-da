@@ -7,5 +7,5 @@
   $sudo python -m pip install matplotlib  
   $sudo apt install python-tweepy python-tk 
 
-#Run
+# Run
 python mamoda.py  
