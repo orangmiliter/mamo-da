@@ -8,4 +8,4 @@
   $sudo apt install python-tweepy python-tk 
 
 # Run
-python mamoda.py  
+  $python mamoda.py  
