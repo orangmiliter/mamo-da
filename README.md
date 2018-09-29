@@ -18,3 +18,6 @@ keys = dict(
 )  
 
   $python mamoda.py  
+
+# screenshot
+![alt text](https://github.com/orangmiliter/mamo-da/blob/master/screenshot/ss.png)
